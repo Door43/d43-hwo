@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hwo:home|Door43 (hwo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hwo|d43-hwo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hwo/archive/master.zip|d43-hwo.zip]]
+
+**Recent Changes**
+{{changes>ns = hwo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hwo|Ethnologue data]]
+
